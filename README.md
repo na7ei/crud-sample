@@ -24,6 +24,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## References
 
 - https://zenn.dev/takumi0616/articles/3fc3097a235f64
+- https://qiita.com/autotaker1984/items/9b88b234b34b0e26fbdd
 
 ## Learn More
 
